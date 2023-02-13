@@ -1,3 +1,8 @@
+/*
+Covid 19 Data Exploration 
+skills used: Joins, Windows Functions, Aggregate Functions, Converting Data Types, CTE's, Temp Tables, Creating Views
+*/
+
 select * 
 from [dbo].[CovidVaccinations$]
 
